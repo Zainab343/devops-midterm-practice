@@ -1,1 +1,1 @@
-Hello devOps!
+This is my DevOps midterm practice repository.
